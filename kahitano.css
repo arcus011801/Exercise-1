@@ -1,0 +1,22 @@
+.background {
+    background-color:black;
+    background-size:200px;
+    background-image:;}
+.title {
+    position:absolute;
+    top:20px;
+    text-allign:center;
+    width:78%;
+    margin:20px;
+    padding:5%;
+    border:1px;
+    font-family:forte;
+    font-size:large;
+}
+.description {
+    position:absolute;
+    top:30px;
+    text-allign:center;
+    font-size: 20px;
+    font-family:Big Caslon;
+    }
